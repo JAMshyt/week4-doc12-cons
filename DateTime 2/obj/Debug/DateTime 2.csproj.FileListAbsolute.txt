@@ -1,0 +1,20 @@
+E:\Практика 2\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.exe.config
+E:\Практика 2\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.exe
+E:\Практика 2\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.pdb
+E:\Практика 2\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.csprojResolveAssemblyReference.cache
+E:\Практика 2\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.exe
+E:\Практика 2\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.pdb
+E:\Практика\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.exe.config
+E:\Практика\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.exe
+E:\Практика\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.pdb
+E:\Практика\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.csprojAssemblyReference.cache
+E:\Практика\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.csproj.CoreCompileInputs.cache
+E:\Практика\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.exe
+E:\Практика\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.pdb
+E:\Практика22\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.exe.config
+E:\Практика22\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.exe
+E:\Практика22\Щербаков\DateTime 2\DateTime 2\bin\Debug\DateTime 2.pdb
+E:\Практика22\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.csprojAssemblyReference.cache
+E:\Практика22\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.csproj.CoreCompileInputs.cache
+E:\Практика22\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.exe
+E:\Практика22\Щербаков\DateTime 2\DateTime 2\obj\Debug\DateTime 2.pdb
